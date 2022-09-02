@@ -1,0 +1,6 @@
+cd - entra na pasta
+cd.. - sai da pasta
+md - cria pasta
+rmdir /s - apaga pasta
+type nul > - cria um arquivo
+del - deleta um arquivo
